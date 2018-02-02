@@ -1,0 +1,26 @@
+{
+  "editor.fontFamily": "Hack",
+  "editor.fontSize": 12,
+  "editor.tabSize": 4,
+  "editor.detectIndentation": true,
+  "files.exclude": {
+    "**/.git": true,
+    "**/CVS": true,
+    "**/.#*": true,
+    "**/.*~": true,
+    "**/*.~*~": true,
+    "**/*.o": true,
+    "**/*.pyc": true
+  },
+  "telemetry.enableCrashReporter": false,
+  "telemetry.enableTelemetry": false,
+  "window.restoreWindows": "all",
+  "workbench.colorTheme": "One Dark Pro",
+  "workbench.startupEditor": "none",
+  "editor.formatOnPaste": true,
+  "zenMode.hideTabs": false,
+  "terminal.integrated.fontFamily": "Hack",
+  "terminal.integrated.fontSize": 12,
+  "C_Cpp.autoAddFileAssociations": false,
+  "latex-workshop.latex.autoBuild.onSave.enabled": false
+}
