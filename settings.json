@@ -22,6 +22,5 @@
   "terminal.integrated.fontFamily": "Hack",
   "terminal.integrated.fontSize": 12,
   "C_Cpp.autoAddFileAssociations": false,
-  "latex-workshop.latex.autoBuild.onSave.enabled": false,
-  "python.formatting.provider": []
+  "latex-workshop.latex.autoBuild.onSave.enabled": false
 }
