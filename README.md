@@ -9,4 +9,3 @@ Additional extensions:
 - One Dark Pro
 - Python
 - TCL
-- vscode-pdf

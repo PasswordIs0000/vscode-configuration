@@ -18,7 +18,7 @@
   "window.restoreWindows": "all",
   "workbench.colorTheme": "One Dark Pro",
   "workbench.startupEditor": "none",
-  "editor.formatOnPaste": true,
+  "editor.formatOnPaste": false,
   "editor.formatOnSave": false,
   "editor.formatOnType": false,
   "zenMode.hideTabs": false,
