@@ -8,4 +8,5 @@ Additional extensions:
 - LaTeX Workshop
 - One Dark Pro
 - Python
+- Remote VSCode
 - TCL

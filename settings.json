@@ -29,5 +29,9 @@
   "C_Cpp.clang_format_style": "{BasedOnStyle: Google, ColumnLimit: 120, IndentWidth: 4}",
   "python.formatting.provider": "yapf",
   "python.formatting.yapfArgs": ["--style={based_on_style: Google, COLUMN_LIMIT: 120, , INDENT_WIDTH: 4}"],
-  "editor.rulers": [120]
+  "editor.rulers": [120],
+  "remote.port": 52698,
+  "remote.onstartup": true,
+  "remote.host": "127.0.0.1",
+  "remote.dontShowPortAlreadyInUseError": false
 }
