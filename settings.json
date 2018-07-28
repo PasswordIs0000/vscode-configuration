@@ -33,5 +33,7 @@
   "remote.port": 52698,
   "remote.onstartup": true,
   "remote.host": "127.0.0.1",
-  "remote.dontShowPortAlreadyInUseError": false
+  "remote.dontShowPortAlreadyInUseError": false,
+  "C_Cpp.workspaceParsingPriority": "low",
+  "C_Cpp.default.browse.limitSymbolsToIncludedHeaders": true
 }
