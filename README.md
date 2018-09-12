@@ -8,5 +8,7 @@ Additional extensions:
 - LaTeX Workshop
 - One Dark Pro
 - Python
+- Rainbow CSV
 - Remote VSCode
 - TCL
+- vscode-pdf
