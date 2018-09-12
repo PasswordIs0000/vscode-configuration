@@ -11,4 +11,3 @@ Additional extensions:
 - Rainbow CSV
 - Remote VSCode
 - TCL
-- vscode-pdf
