@@ -17,5 +17,25 @@
     {
         "key": "ctrl+shift+t",
         "command": "workbench.action.tasks.runTask"
+    },
+    {
+        "key": "ctrl+t",
+        "command": "workbench.action.quickOpen"
+    },
+    {
+        "key": "ctrl+shift+a",
+        "command": "workbench.action.previousEditor"
+    },
+    {
+        "key": "ctrl+shift+d",
+        "command": "workbench.action.nextEditor"
+    },
+    {
+        "key": "ctrl+shift+v",
+        "command": "workbench.action.terminal.toggleTerminal"
+    },
+    {
+        "key": "ctrl+shift+c",
+        "command": "workbench.files.action.collapseExplorerFolders"
     }
 ]
