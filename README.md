@@ -10,4 +10,6 @@ Additional extensions:
 - Python
 - Rainbow CSV
 - Remote VSCode
-- TCL
+
+Fonts required:
+- Hack (https://sourcefoundry.org/hack/)
