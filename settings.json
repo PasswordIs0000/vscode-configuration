@@ -25,7 +25,6 @@
     "terminal.integrated.fontFamily": "Hack",
     "terminal.integrated.fontSize": 12,
     "C_Cpp.autoAddFileAssociations": false,
-    "latex-workshop.latex.autoBuild.onSave.enabled": false,
     "C_Cpp.clang_format_style": "{BasedOnStyle: Google, ColumnLimit: 120, IndentWidth: 4}",
     "python.formatting.provider": "yapf",
     "python.formatting.yapfArgs": [
@@ -42,5 +41,7 @@
     "C_Cpp.default.browse.limitSymbolsToIncludedHeaders": true,
     "files.autoSave": "afterDelay",
     "editor.acceptSuggestionOnCommitCharacter": false,
-    "editor.acceptSuggestionOnEnter": "off"
+    "editor.acceptSuggestionOnEnter": "off",
+    "latex-workshop.latex.autoBuild.run": "never",
+    "latex-workshop.message.update.show": false
 }
