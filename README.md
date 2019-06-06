@@ -9,7 +9,9 @@ Additional extensions:
 - One Dark Pro
 - Python
 - Rainbow CSV
-- Remote VSCode
+- Remote - SSH
+- Remote - SSH: Editing Configuration Files
+- Remote - SSH: Explorer
 
 Fonts required:
 - Hack (https://sourcefoundry.org/hack/)
