@@ -12,6 +12,7 @@ Additional extensions:
 - Remote - SSH
 - Remote - SSH: Editing Configuration Files
 - Remote - SSH: Explorer
+- Remote VSCode
 
 Fonts required:
 - Hack (https://sourcefoundry.org/hack/)
