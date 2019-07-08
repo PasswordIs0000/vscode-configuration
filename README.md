@@ -16,3 +16,7 @@ Additional extensions:
 
 Fonts required:
 - Hack (https://sourcefoundry.org/hack/)
+
+Python libraries required:
+- Pylint
+- Yapf
