@@ -19,4 +19,5 @@ Fonts required:
 
 Python libraries required:
 - Pylint
+- Rope
 - Yapf
