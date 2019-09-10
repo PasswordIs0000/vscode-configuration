@@ -45,5 +45,6 @@
     "latex-workshop.latex.autoBuild.run": "never",
     "latex-workshop.message.update.show": false,
     "workbench.enableExperiments": false,
-    "workbench.settings.enableNaturalLanguageSearch": false
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "latex-workshop.view.pdf.viewer": "tab"
 }

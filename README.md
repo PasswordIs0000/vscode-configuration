@@ -5,6 +5,7 @@ in ~/.config/Code/User.
 
 Additional extensions:
 - C/C++
+- Code Spell Checker
 - LaTeX Workshop
 - One Dark Pro
 - Python
