@@ -12,7 +12,6 @@ Additional extensions:
 - Rainbow CSV
 - Remote - SSH
 - Remote - SSH: Editing Configuration Files
-- Remote - SSH: Explorer
 - Remote VSCode
 
 Fonts required:
