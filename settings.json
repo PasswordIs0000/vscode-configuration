@@ -46,5 +46,10 @@
     "latex-workshop.message.update.show": false,
     "workbench.enableExperiments": false,
     "workbench.settings.enableNaturalLanguageSearch": false,
-    "latex-workshop.view.pdf.viewer": "tab"
+    "latex-workshop.view.pdf.viewer": "tab",
+    "cSpell.enabledLanguageIds": [
+        "git-commit",
+        "latex",
+        "markdown"
+    ]
 }
