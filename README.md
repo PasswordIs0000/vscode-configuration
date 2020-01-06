@@ -4,6 +4,7 @@ This is just my very own Visual Studio Code configuration. I'm using symbolic li
 in ~/.config/Code/User.
 
 Additional extensions:
+- Arduino
 - C/C++
 - Code Spell Checker
 - LaTeX Workshop
