@@ -51,5 +51,6 @@
         "git-commit",
         "latex",
         "markdown"
-    ]
+    ],
+    "arduino.defaultBaudRate": 9600
 }
