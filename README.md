@@ -3,7 +3,7 @@
 This is just my very own Visual Studio Code configuration. I'm using symbolic links for the files 
 in ~/.config/Code/User.
 
-Additional extensions:
+Extensions:
 - Arduino
 - C/C++
 - Code Spell Checker
@@ -13,7 +13,6 @@ Additional extensions:
 - Rainbow CSV
 - Remote - SSH
 - Remote - SSH: Editing Configuration Files
-- Remote VSCode
 
 Fonts required:
 - Hack (https://sourcefoundry.org/hack/)
