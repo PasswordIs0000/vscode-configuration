@@ -52,5 +52,6 @@
         "latex",
         "markdown"
     ],
-    "arduino.defaultBaudRate": 9600
+    "arduino.defaultBaudRate": 9600,
+    "python.terminal.activateEnvironment": false
 }
