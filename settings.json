@@ -33,10 +33,6 @@
     "editor.rulers": [
         120
     ],
-    "remote.port": 52698,
-    "remote.onstartup": true,
-    "remote.host": "127.0.0.1",
-    "remote.dontShowPortAlreadyInUseError": false,
     "C_Cpp.workspaceParsingPriority": "low",
     "C_Cpp.default.browse.limitSymbolsToIncludedHeaders": true,
     "files.autoSave": "afterDelay",
@@ -55,5 +51,12 @@
     "arduino.defaultBaudRate": 9600,
     "python.terminal.activateEnvironment": false,
     "remote.SSH.suppressWindowsSshWarning": true,
-    "terminal.integrated.inheritEnv": false
+    "remote.SSH.remotePlatform": {
+        "dekstu019": "linux",
+        "dekstu014": "linux",
+        "kaehrmorhen": "linux"
+    },
+    "terminal.integrated.inheritEnv": false,
+    "remote.downloadExtensionsLocally": true,
+    "extensions.showRecommendationsOnlyOnDemand": true
 }
