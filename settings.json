@@ -54,7 +54,8 @@
     "remote.SSH.remotePlatform": {
         "dekstu019": "linux",
         "dekstu014": "linux",
-        "kaehrmorhen": "linux"
+        "kaehrmorhen": "linux",
+        "gputest253": "linux"
     },
     "terminal.integrated.inheritEnv": false,
     "remote.downloadExtensionsLocally": true,
