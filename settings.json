@@ -59,5 +59,8 @@
     },
     "terminal.integrated.inheritEnv": false,
     "remote.downloadExtensionsLocally": true,
-    "extensions.showRecommendationsOnlyOnDemand": true
+    "extensions.showRecommendationsOnlyOnDemand": true,
+    "json.schemaDownload.enable": false,
+    "npm.fetchOnlinePackageInfo": false,
+    "typescript.disableAutomaticTypeAcquisition": true
 }
