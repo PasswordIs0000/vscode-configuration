@@ -62,5 +62,6 @@
     "extensions.showRecommendationsOnlyOnDemand": true,
     "json.schemaDownload.enable": false,
     "npm.fetchOnlinePackageInfo": false,
-    "typescript.disableAutomaticTypeAcquisition": true
+    "typescript.disableAutomaticTypeAcquisition": true,
+    "python.showStartPage": false
 }
