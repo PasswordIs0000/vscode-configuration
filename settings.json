@@ -63,5 +63,6 @@
     "json.schemaDownload.enable": false,
     "npm.fetchOnlinePackageInfo": false,
     "typescript.disableAutomaticTypeAcquisition": true,
-    "python.showStartPage": false
+    "python.showStartPage": false,
+    "python.languageServer": "Pylance"
 }

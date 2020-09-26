@@ -9,6 +9,7 @@ Extensions:
 - Code Spell Checker
 - LaTeX Workshop
 - One Dark Pro
+- Pylance
 - Python
 - Rainbow CSV
 - Remote - SSH
