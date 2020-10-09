@@ -1,9 +1,14 @@
 # Visual Studio Code configuration
 
-This is just my very own Visual Studio Code configuration. I'm using symbolic links for the files 
-in ~/.config/Code/User.
+## Symbolic links for using the configuration
 
-Extensions:
+### On Linux
+```
+ln -s $(pwd)/keybindings.json $HOME/.config/Code/User/keybindings.json
+ln -s $(pwd)/settings.json $HOME/.config/Code/User/settings.json
+```
+
+## VSCode Extensions
 - Arduino
 - C/C++
 - Code Spell Checker
@@ -15,10 +20,10 @@ Extensions:
 - Remote - SSH
 - Remote - SSH: Editing Configuration Files
 
-Fonts required:
-- Hack (https://sourcefoundry.org/hack/)
+## Fonts required:
+- [Hack](https://sourcefoundry.org/hack/)
 
-Python libraries required:
+## Python libraries required
 - Pylint
 - Rope
 - Yapf
