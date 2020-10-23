@@ -28,7 +28,7 @@ mklink %APPDATA%\Code\User\settings.json %cd%\settings.json
 - Remote - SSH
 - Remote - SSH: Editing Configuration Files
 
-## Fonts required:
+## Fonts required
 - [Hack](https://sourcefoundry.org/hack/)
 
 ## Python libraries required
