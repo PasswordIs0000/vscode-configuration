@@ -64,5 +64,6 @@
     "npm.fetchOnlinePackageInfo": false,
     "typescript.disableAutomaticTypeAcquisition": true,
     "python.showStartPage": false,
-    "python.languageServer": "Pylance"
+    "python.languageServer": "Pylance",
+    "python.analysis.autoImportCompletions": false
 }
