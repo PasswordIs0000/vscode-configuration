@@ -65,5 +65,6 @@
     "typescript.disableAutomaticTypeAcquisition": true,
     "python.showStartPage": false,
     "python.languageServer": "Pylance",
-    "python.analysis.autoImportCompletions": false
+    "python.analysis.autoImportCompletions": false,
+    "python.dataScience.askForKernelRestart": false
 }
