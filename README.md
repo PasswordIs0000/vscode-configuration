@@ -20,6 +20,7 @@ mklink %APPDATA%\Code\User\settings.json %cd%\settings.json
 - Arduino
 - C/C++
 - Code Spell Checker
+- Jupyter
 - LaTeX Workshop
 - One Dark Pro
 - Pylance
