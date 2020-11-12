@@ -68,5 +68,6 @@
     "jupyter.askForKernelRestart": false,
     "jupyter.alwaysTrustNotebooks": true,
     "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
-    "terminal.integrated.shell.linux": "/bin/bash"
+    "terminal.integrated.shell.linux": "/bin/bash",
+    "terminal.integrated.enablePersistentSessions": false
 }
