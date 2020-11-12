@@ -57,7 +57,6 @@
         "kaehrmorhen": "linux",
         "gputest253": "linux"
     },
-    "terminal.integrated.inheritEnv": false,
     "remote.downloadExtensionsLocally": true,
     "extensions.showRecommendationsOnlyOnDemand": true,
     "json.schemaDownload.enable": false,
