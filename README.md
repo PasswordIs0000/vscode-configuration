@@ -32,7 +32,8 @@ mklink %APPDATA%\Code\User\settings.json %cd%\settings.json
 ## Fonts required
 - [Hack](https://sourcefoundry.org/hack/)
 
-## Python libraries required
-- Pylint
-- Rope
-- Yapf
+## Python packages required
+- ipykernel
+- pylint
+- rope
+- yapf
