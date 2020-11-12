@@ -67,5 +67,6 @@
     "python.analysis.autoImportCompletions": false,
     "jupyter.askForKernelRestart": false,
     "jupyter.alwaysTrustNotebooks": true,
-    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe"
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "terminal.integrated.shell.linux": "/bin/bash"
 }
