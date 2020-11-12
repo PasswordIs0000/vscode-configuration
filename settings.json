@@ -66,5 +66,6 @@
     "python.languageServer": "Pylance",
     "python.analysis.autoImportCompletions": false,
     "jupyter.askForKernelRestart": false,
-    "jupyter.alwaysTrustNotebooks": true
+    "jupyter.alwaysTrustNotebooks": true,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe"
 }
