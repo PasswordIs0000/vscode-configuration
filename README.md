@@ -22,7 +22,6 @@ mklink %APPDATA%\Code\User\settings.json %cd%\settings.json
 - Code Spell Checker
 - Jupyter
 - LaTeX Workshop
-- One Dark Pro
 - Pylance
 - Python
 - Rainbow CSV
