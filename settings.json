@@ -71,5 +71,6 @@
     "terminal.integrated.shell.linux": "/bin/bash",
     "terminal.integrated.enablePersistentSessions": false,
     "remote.SSH.localServerDownload": "always",
-    "remote.SSH.maxReconnectionAttempts": 2
+    "remote.SSH.maxReconnectionAttempts": 2,
+    "remote.autoForwardPorts": false
 }
