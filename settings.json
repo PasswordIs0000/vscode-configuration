@@ -69,5 +69,7 @@
     "jupyter.alwaysTrustNotebooks": true,
     "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
     "terminal.integrated.shell.linux": "/bin/bash",
-    "terminal.integrated.enablePersistentSessions": false
+    "terminal.integrated.enablePersistentSessions": false,
+    "remote.SSH.localServerDownload": "always",
+    "remote.SSH.maxReconnectionAttempts": 2
 }
