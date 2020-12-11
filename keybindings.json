@@ -12,7 +12,7 @@
     {
         "key": "ctrl+tab",
         "command": "editor.action.formatSelection",
-        "when": "editorTextFocus"
+        "when": "editorTextFocus && !editorReadonly"
     },
     {
         "key": "ctrl+shift+7",
