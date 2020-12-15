@@ -72,11 +72,5 @@
     "terminal.integrated.enablePersistentSessions": false,
     "remote.SSH.localServerDownload": "always",
     "remote.SSH.maxReconnectionAttempts": 2,
-    "remote.autoForwardPorts": false,
-    "workbench.editorAssociations": [
-        {
-            "viewType": "jupyter.notebook.ipynb",
-            "filenamePattern": "*.ipynb"
-        }
-    ]
+    "remote.autoForwardPorts": false
 }
