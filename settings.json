@@ -73,5 +73,6 @@
     "remote.SSH.localServerDownload": "always",
     "remote.SSH.maxReconnectionAttempts": 2,
     "remote.autoForwardPorts": false,
-    "git.autoRepositoryDetection": "openEditors"
+    "git.autoRepositoryDetection": "openEditors",
+    "C_Cpp.intelliSenseCacheSize": 0
 }
