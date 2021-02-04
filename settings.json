@@ -25,13 +25,13 @@
     "terminal.integrated.fontFamily": "Hack",
     "terminal.integrated.fontSize": 12,
     "C_Cpp.autoAddFileAssociations": false,
-    "C_Cpp.clang_format_style": "{BasedOnStyle: Google, ColumnLimit: 120, IndentWidth: 4}",
+    "C_Cpp.clang_format_style": "{BasedOnStyle: Google, ColumnLimit: 140, IndentWidth: 4}",
     "python.formatting.provider": "yapf",
     "python.formatting.yapfArgs": [
-        "--style={based_on_style: Google, COLUMN_LIMIT: 120, , INDENT_WIDTH: 4}"
+        "--style={based_on_style: Google, COLUMN_LIMIT: 140, , INDENT_WIDTH: 4}"
     ],
     "editor.rulers": [
-        120
+        140
     ],
     "C_Cpp.workspaceParsingPriority": "low",
     "C_Cpp.default.browse.limitSymbolsToIncludedHeaders": true,
@@ -58,7 +58,7 @@
         "gputest253": "linux"
     },
     "remote.downloadExtensionsLocally": true,
-    "extensions.showRecommendationsOnlyOnDemand": true,
+    "extensions.ignoreRecommendations": true,
     "json.schemaDownload.enable": false,
     "npm.fetchOnlinePackageInfo": false,
     "typescript.disableAutomaticTypeAcquisition": true,
