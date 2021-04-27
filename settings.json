@@ -74,5 +74,11 @@
     "remote.SSH.maxReconnectionAttempts": 2,
     "remote.autoForwardPorts": false,
     "git.autoRepositoryDetection": "openEditors",
-    "C_Cpp.intelliSenseCacheSize": 0
+    "C_Cpp.intelliSenseCacheSize": 0,
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ]
 }
