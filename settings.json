@@ -76,6 +76,7 @@
     "git.autoRepositoryDetection": "openEditors",
     "C_Cpp.intelliSenseCacheSize": 0,
     "workbench.editorAssociations": {
-        "*.ipynb": "jupyter.notebook.ipynb"
-    }
+        "*.ipynb": "jupyter-notebook"
+    },
+    "task.autoDetect": "off"
 }
