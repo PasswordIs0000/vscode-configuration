@@ -78,6 +78,5 @@
     "workbench.editorAssociations": {
         "*.ipynb": "jupyter-notebook"
     },
-    "task.autoDetect": "off",
-    "cSpell.blockCheckingWhenLineLengthGreaterThan": 5000
+    "task.autoDetect": "off"
 }
