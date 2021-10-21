@@ -78,5 +78,6 @@
     "workbench.editorAssociations": {
         "*.ipynb": "jupyter-notebook"
     },
-    "task.autoDetect": "off"
+    "task.autoDetect": "off",
+    "telemetry.telemetryLevel": "off"
 }
