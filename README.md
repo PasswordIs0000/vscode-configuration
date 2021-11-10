@@ -22,6 +22,7 @@ mklink %APPDATA%\Code\User\settings.json %cd%\settings.json
 - Code Spell Checker
 - Jupyter
 - Jupyter Keymap
+- Jupyter Notebook Renderers
 - LaTeX Workshop
 - Pylance
 - Python
