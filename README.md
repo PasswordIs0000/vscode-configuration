@@ -20,6 +20,7 @@ mklink %APPDATA%\Code\User\settings.json %cd%\settings.json
 - Arduino
 - C/C++
 - Code Spell Checker
+- German - Code Spell Checker
 - Jupyter
 - Jupyter Keymap
 - Jupyter Notebook Renderers
