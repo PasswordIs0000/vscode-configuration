@@ -79,5 +79,8 @@
         "*.ipynb": "jupyter-notebook"
     },
     "task.autoDetect": "off",
-    "telemetry.telemetryLevel": "off"
+    "telemetry.telemetryLevel": "off",
+    "files.associations": {
+        "*.pyx": "python"
+    }
 }
