@@ -16,7 +16,7 @@ mklink %APPDATA%\Code\User\keybindings.json %cd%\keybindings.json
 mklink %APPDATA%\Code\User\settings.json %cd%\settings.json
 ```
 
-## VSCode Extensions
+## VSCode extensions
 - Arduino
 - C/C++
 - Code Spell Checker
@@ -31,10 +31,10 @@ mklink %APPDATA%\Code\User\settings.json %cd%\settings.json
 - Remote - SSH
 - Remote - SSH: Editing Configuration Files
 
-## Fonts required
+## Fonts
 - [Hack](https://sourcefoundry.org/hack/)
 
-## Python packages required
+## Python packages
 - ipykernel
 - pylint
 - rope
