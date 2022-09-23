@@ -17,25 +17,18 @@ mklink %APPDATA%\Code\User\settings.json %cd%\settings.json
 ```
 
 ## VSCode extensions
-- Arduino
-- C/C++
-- Code Spell Checker
-- German - Code Spell Checker
-- Jupyter
-- Jupyter Keymap
-- Jupyter Notebook Renderers
-- LaTeX Workshop
-- Pylance
-- Python
-- Rainbow CSV
-- Remote - SSH
-- Remote - SSH: Editing Configuration Files
+- [Arduino](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino)
+- [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+- [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+- [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
 
 ## Fonts
 - [Hack](https://sourcefoundry.org/hack/)
 
 ## Python packages
-- ipykernel
-- pylint
-- rope
-- yapf
+- [ipykernel](https://anaconda.org/conda-forge/ipykernel)
+- [pylint](https://anaconda.org/conda-forge/pylint)
+- [rope](https://anaconda.org/conda-forge/rope)
+- [yapf](https://anaconda.org/conda-forge/yapf)
