@@ -48,7 +48,6 @@
         "latex",
         "markdown"
     ],
-    "arduino.defaultBaudRate": 9600,
     "python.terminal.activateEnvironment": false,
     "remote.SSH.suppressWindowsSshWarning": true,
     "remote.SSH.remotePlatform": {
@@ -66,12 +65,8 @@
     "python.languageServer": "Pylance",
     "python.analysis.autoImportCompletions": false,
     "jupyter.askForKernelRestart": false,
-    "jupyter.alwaysTrustNotebooks": true,
-    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
-    "terminal.integrated.shell.linux": "/bin/bash",
     "terminal.integrated.enablePersistentSessions": false,
     "remote.SSH.localServerDownload": "always",
-    "remote.SSH.maxReconnectionAttempts": 2,
     "remote.autoForwardPorts": false,
     "git.autoRepositoryDetection": "openEditors",
     "C_Cpp.intelliSenseCacheSize": 0,
@@ -82,5 +77,13 @@
     "telemetry.telemetryLevel": "off",
     "files.associations": {
         "*.pyx": "python"
+    },
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "terminal.integrated.automationProfile.windows": {
+        "path": "C:\\WINDOWS\\System32\\cmd.exe"
+    },
+    "terminal.integrated.automationProfile.linux": {
+        "path": "/bin/bash"
     }
 }
