@@ -16,7 +16,7 @@
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
     "window.restoreWindows": "all",
-    "workbench.colorTheme": "Default Light+",
+    "workbench.colorTheme": "Default Light Modern",
     "workbench.startupEditor": "none",
     "editor.formatOnPaste": false,
     "editor.formatOnSave": false,
