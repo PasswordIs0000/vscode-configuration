@@ -15,7 +15,7 @@
     },
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
-    "window.restoreWindows": "all",
+    "window.restoreWindows": "none",
     "workbench.colorTheme": "Default Light Modern",
     "workbench.startupEditor": "none",
     "editor.formatOnPaste": false,
@@ -34,7 +34,6 @@
         140
     ],
     "C_Cpp.workspaceParsingPriority": "low",
-    "C_Cpp.default.browse.limitSymbolsToIncludedHeaders": true,
     "files.autoSave": "afterDelay",
     "editor.acceptSuggestionOnCommitCharacter": false,
     "editor.acceptSuggestionOnEnter": "off",
@@ -69,7 +68,6 @@
     "remote.SSH.localServerDownload": "always",
     "remote.autoForwardPorts": false,
     "git.autoRepositoryDetection": "openEditors",
-    "C_Cpp.intelliSenseCacheSize": 0,
     "workbench.editorAssociations": {
         "*.ipynb": "jupyter-notebook"
     },
@@ -87,5 +85,6 @@
         "path": "/bin/bash"
     },
     "arduino.useArduinoCli": true,
-    "security.workspace.trust.banner": "never"
+    "security.workspace.trust.banner": "never",
+    "git.openRepositoryInParentFolders": "never"
 }
