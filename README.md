@@ -28,7 +28,5 @@ mklink %APPDATA%\Code\User\settings.json %cd%\settings.json
 - [Hack](https://sourcefoundry.org/hack/)
 
 ## Python packages
-- [ipykernel](https://anaconda.org/conda-forge/ipykernel)
-- [pylint](https://anaconda.org/conda-forge/pylint)
-- [rope](https://anaconda.org/conda-forge/rope)
+- [jedi](https://anaconda.org/conda-forge/jedi)
 - [yapf](https://anaconda.org/conda-forge/yapf)

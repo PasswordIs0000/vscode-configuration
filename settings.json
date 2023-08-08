@@ -13,15 +13,12 @@
         "**/*.o": true,
         "**/*.pyc": true
     },
-    "telemetry.enableCrashReporter": false,
-    "telemetry.enableTelemetry": false,
     "window.restoreWindows": "none",
     "workbench.colorTheme": "Default Light Modern",
     "workbench.startupEditor": "none",
     "editor.formatOnPaste": false,
     "editor.formatOnSave": false,
     "editor.formatOnType": false,
-    "zenMode.hideTabs": false,
     "terminal.integrated.fontFamily": "Hack",
     "terminal.integrated.fontSize": 12,
     "C_Cpp.autoAddFileAssociations": false,
@@ -61,7 +58,6 @@
     "npm.fetchOnlinePackageInfo": false,
     "typescript.disableAutomaticTypeAcquisition": true,
     "python.showStartPage": false,
-    "python.languageServer": "Pylance",
     "python.analysis.autoImportCompletions": false,
     "jupyter.askForKernelRestart": false,
     "terminal.integrated.enablePersistentSessions": false,
@@ -88,5 +84,6 @@
     "security.workspace.trust.banner": "never",
     "git.openRepositoryInParentFolders": "never",
     "editor.snippetSuggestions": "none",
-    "git.statusLimit": 1000
+    "git.statusLimit": 1000,
+    "cSpell.language": "en,en-GB,en-US"
 }
