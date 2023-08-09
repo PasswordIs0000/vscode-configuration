@@ -11,7 +11,8 @@
         "**/.*~": true,
         "**/*.~*~": true,
         "**/*.o": true,
-        "**/*.pyc": true
+        "**/*.pyc": true,
+        "**/*.so": true
     },
     "window.restoreWindows": "none",
     "workbench.colorTheme": "Default Light Modern",
