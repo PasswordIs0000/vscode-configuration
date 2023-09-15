@@ -86,5 +86,6 @@
     "git.openRepositoryInParentFolders": "never",
     "editor.snippetSuggestions": "none",
     "git.statusLimit": 1000,
-    "cSpell.language": "en,en-GB,en-US"
+    "cSpell.language": "en,en-GB,en-US",
+    "git.ignoreLimitWarning": true
 }
