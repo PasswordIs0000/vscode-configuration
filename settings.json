@@ -24,10 +24,6 @@
     "terminal.integrated.fontSize": 12,
     "C_Cpp.autoAddFileAssociations": false,
     "C_Cpp.clang_format_style": "{BasedOnStyle: Google, ColumnLimit: 140, IndentWidth: 4}",
-    "python.formatting.provider": "yapf",
-    "python.formatting.yapfArgs": [
-        "--style={based_on_style: Google, COLUMN_LIMIT: 140, , INDENT_WIDTH: 4}"
-    ],
     "editor.rulers": [
         140
     ],
