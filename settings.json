@@ -80,7 +80,6 @@
     "terminal.integrated.automationProfile.linux": {
         "path": "/bin/bash"
     },
-    "arduino.useArduinoCli": true,
     "security.workspace.trust.banner": "never",
     "git.openRepositoryInParentFolders": "never",
     "editor.snippetSuggestions": "none",
