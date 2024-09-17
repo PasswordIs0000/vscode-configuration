@@ -11,6 +11,7 @@
         "**/*.~*~": true,
         "**/*.o": true,
         "**/*.params": true,
+        "**/*.enc": true,
         "**/*.pt": true,
         "**/*.pyc": true,
         "**/*.so": true,
@@ -94,6 +95,7 @@
         "**/*.mp4": true,
         "**/*.o": true,
         "**/*.params": true,
+        "**/*.enc": true,
         "**/*.ply": true,
         "**/*.png": true,
         "**/*.pt": true,
@@ -102,6 +104,8 @@
         "**/*.tar": true,
         "**/*.tif": true,
         "**/*.tmp": true,
-        "**/*.zip": true
+        "**/*.zip": true,
+        "**/*.mpl": true,
+        "**/*.idl": true
     }
 }
