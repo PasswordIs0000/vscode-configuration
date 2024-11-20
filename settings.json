@@ -36,11 +36,6 @@
     "workbench.enableExperiments": false,
     "workbench.settings.enableNaturalLanguageSearch": false,
     "latex-workshop.view.pdf.viewer": "tab",
-    "cSpell.enabledLanguageIds": [
-        "git-commit",
-        "latex",
-        "markdown"
-    ],
     "python.terminal.activateEnvironment": false,
     "remote.SSH.suppressWindowsSshWarning": true,
     "remote.SSH.remotePlatform": {
@@ -104,5 +99,10 @@
         "**/*.zip": true,
         "**/*.mpl": true,
         "**/*.idl": true
-    }
+    },
+    "cSpell.enabledFileTypes": {
+        "latex": true,
+        "git-commit": true
+    },
+    "cSpell.spellCheckDelayMs": 100
 }
