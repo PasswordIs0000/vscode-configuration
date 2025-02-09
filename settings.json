@@ -81,6 +81,7 @@
     "git.ignoreLimitWarning": true,
     "remote.SSH.enableDynamicForwarding": false,
     "cSpell.enabledFileTypes": {
+        "*": true,
         "latex": true,
         "git-commit": true,
         "markdown": true
