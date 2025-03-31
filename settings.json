@@ -89,5 +89,6 @@
         "markdown": true,
         "scminput": false
     },
-    "git.enableSmartCommit": true
+    "git.enableSmartCommit": true,
+    "C_Cpp.clang_format_style": "Google"
 }
