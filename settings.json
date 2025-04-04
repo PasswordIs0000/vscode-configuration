@@ -91,5 +91,6 @@
     },
     "git.enableSmartCommit": true,
     "C_Cpp.clang_format_style": "Google",
-    "chat.agent.enabled": true
+    "chat.agent.enabled": true,
+    "github.copilot.nextEditSuggestions.enabled": true
 }
