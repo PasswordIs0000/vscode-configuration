@@ -86,5 +86,15 @@
         "key": "tab",
         "command": "-editor.action.inlineSuggest.commit",
         "when": "inInlineEditsPreviewEditor"
+    },
+    {
+        "key": "ctrl+k z",
+        "command": "-workbench.action.toggleZenMode",
+        "when": "!isAuxiliaryWindowFocusedContext"
+    },
+    {
+        "key": "escape escape",
+        "command": "-workbench.action.exitZenMode",
+        "when": "inZenMode"
     }
 ]
