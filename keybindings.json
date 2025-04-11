@@ -96,5 +96,30 @@
         "key": "escape escape",
         "command": "-workbench.action.exitZenMode",
         "when": "inZenMode"
+    },
+    {
+        "key": "ctrl+s ctrl+u",
+        "command": "github.copilot.completions.toggle"
+    },
+    {
+        "key": "ctrl+s",
+        "command": "-workbench.action.files.save"
+    },
+    {
+        "key": "ctrl+shift+s",
+        "command": "-workbench.action.files.saveAs"
+    },
+    {
+        "key": "ctrl+k ctrl+shift+s",
+        "command": "-workbench.action.files.saveWithoutFormatting"
+    },
+    {
+        "key": "ctrl+k s",
+        "command": "-saveAll"
+    },
+    {
+        "key": "ctrl+shift+s",
+        "command": "-workbench.action.files.saveLocalFile",
+        "when": "remoteFileDialogVisible"
     }
 ]

@@ -94,5 +94,6 @@
     "chat.agent.enabled": true,
     "github.copilot.nextEditSuggestions.enabled": true,
     "git.confirmSync": false,
-    "editor.inlineSuggest.syntaxHighlightingEnabled": false
+    "editor.inlineSuggest.syntaxHighlightingEnabled": false,
+    "C_Cpp.errorSquiggles": "disabled"
 }
