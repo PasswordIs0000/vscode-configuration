@@ -93,5 +93,6 @@
     "C_Cpp.clang_format_style": "Google",
     "chat.agent.enabled": true,
     "github.copilot.nextEditSuggestions.enabled": true,
-    "git.confirmSync": false
+    "git.confirmSync": false,
+    "editor.inlineSuggest.syntaxHighlightingEnabled": false
 }
