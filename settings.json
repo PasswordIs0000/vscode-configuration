@@ -36,10 +36,7 @@
     "remote.SSH.suppressWindowsSshWarning": true,
     "remote.SSH.remotePlatform": {
         "dekstu019": "linux",
-        "dekstu014": "linux",
-        "kaehrmorhen": "linux",
-        "gputest253": "linux",
-        "logx4-05": "linux"
+        "dekstu014": "linux"
     },
     "remote.downloadExtensionsLocally": true,
     "extensions.ignoreRecommendations": true,
