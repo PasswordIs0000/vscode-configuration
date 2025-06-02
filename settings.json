@@ -92,6 +92,5 @@
     "git.confirmSync": false,
     "editor.inlineSuggest.syntaxHighlightingEnabled": false,
     "telemetry.feedback.enabled": false,
-    "github.copilot.chat.codeGeneration.useInstructionFiles": false,
     "jupyter.experiments.enabled": false
 }
