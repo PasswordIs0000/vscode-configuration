@@ -31,3 +31,11 @@ mklink %APPDATA%\Code\User\settings.json %cd%\settings.json
 
 ## Fonts
 - [Hack](https://sourcefoundry.org/hack/)
+
+## Tips & Tricks
+
+### i3wm and missing Github login
+Add this to the *~/.vscode/argv.json* file:
+```
+"password-store": "gnome-libsecret"
+```
