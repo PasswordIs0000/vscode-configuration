@@ -98,10 +98,6 @@
         "when": "inZenMode"
     },
     {
-        "key": "ctrl+s ctrl+u",
-        "command": "github.copilot.completions.toggle"
-    },
-    {
         "key": "ctrl+s",
         "command": "-workbench.action.files.save"
     },
@@ -121,5 +117,9 @@
         "key": "ctrl+shift+s",
         "command": "-workbench.action.files.saveLocalFile",
         "when": "remoteFileDialogVisible"
+    },
+    {
+        "key": "ctrl+s ctrl+u",
+        "command": "editor.action.inlineSuggest.snooze"
     }
 ]
