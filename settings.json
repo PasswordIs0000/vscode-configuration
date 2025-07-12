@@ -92,5 +92,6 @@
     "git.confirmSync": false,
     "editor.inlineSuggest.syntaxHighlightingEnabled": false,
     "telemetry.feedback.enabled": false,
-    "jupyter.experiments.enabled": false
+    "jupyter.experiments.enabled": false,
+    "github.gitProtocol": "ssh"
 }
