@@ -50,7 +50,7 @@
     "remote.autoForwardPorts": false,
     "git.autoRepositoryDetection": "openEditors",
     "workbench.editorAssociations": {
-        "*.ipynb": "jupyter-notebook"
+        "file:/**/*.csv": "jupyter-data-wrangler"
     },
     "task.autoDetect": "off",
     "telemetry.telemetryLevel": "off",
