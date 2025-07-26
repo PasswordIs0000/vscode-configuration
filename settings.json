@@ -54,9 +54,6 @@
     },
     "task.autoDetect": "off",
     "telemetry.telemetryLevel": "off",
-    "files.associations": {
-        "*.pyx": "python"
-    },
     "terminal.integrated.defaultProfile.windows": "Command Prompt",
     "terminal.integrated.defaultProfile.linux": "bash",
     "terminal.integrated.automationProfile.windows": {
