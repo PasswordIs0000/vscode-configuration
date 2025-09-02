@@ -56,10 +56,14 @@
     "telemetry.telemetryLevel": "off",
     "terminal.integrated.defaultProfile.windows": "Command Prompt",
     "terminal.integrated.defaultProfile.linux": "bash",
+    "terminal.integrated.defaultProfile.osx": "bash",
     "terminal.integrated.automationProfile.windows": {
         "path": "C:\\WINDOWS\\System32\\cmd.exe"
     },
     "terminal.integrated.automationProfile.linux": {
+        "path": "/bin/bash"
+    },
+    "terminal.integrated.automationProfile.osx": {
         "path": "/bin/bash"
     },
     "security.workspace.trust.banner": "never",
@@ -90,5 +94,6 @@
     "editor.inlineSuggest.syntaxHighlightingEnabled": false,
     "telemetry.feedback.enabled": false,
     "jupyter.experiments.enabled": false,
-    "github.gitProtocol": "ssh"
+    "github.gitProtocol": "ssh",
+    "editor.fontSize": 14
 }
