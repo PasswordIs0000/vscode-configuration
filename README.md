@@ -39,12 +39,4 @@ mklink %APPDATA%\Code\User\snippets %cd%\snippets
 - [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
 
 ## Fonts
-- [Hack](https://sourcefoundry.org/hack/)
-
-## Tips & Tricks
-
-### i3wm and missing Github login
-Add this to the *~/.vscode/argv.json* file:
-```
-"password-store": "gnome-libsecret"
-```
+- [Hack](https://github.com/source-foundry/Hack)
