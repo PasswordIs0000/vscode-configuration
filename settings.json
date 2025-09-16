@@ -22,7 +22,6 @@
     "editor.formatOnSave": false,
     "editor.formatOnType": false,
     "terminal.integrated.fontFamily": "Hack",
-    "terminal.integrated.fontSize": 12,
     "C_Cpp.autoAddFileAssociations": false,
     "files.autoSave": "afterDelay",
     "editor.acceptSuggestionOnCommitCharacter": false,
@@ -95,5 +94,6 @@
     "telemetry.feedback.enabled": false,
     "jupyter.experiments.enabled": false,
     "github.gitProtocol": "ssh",
-    "editor.fontSize": 14
+    "editor.fontSize": 14,
+    "terminal.integrated.fontSize": 14
 }
