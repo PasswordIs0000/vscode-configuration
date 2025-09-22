@@ -55,17 +55,13 @@
     },
     "task.autoDetect": "off",
     "telemetry.telemetryLevel": "off",
-    "terminal.integrated.defaultProfile.windows": "Command Prompt",
-    "terminal.integrated.defaultProfile.linux": "bash",
-    "terminal.integrated.defaultProfile.osx": "bash",
-    "terminal.integrated.automationProfile.windows": {
-        "path": "C:\\WINDOWS\\System32\\cmd.exe"
-    },
+    "terminal.integrated.defaultProfile.linux": "dash",
+    "terminal.integrated.defaultProfile.osx": "dash",
     "terminal.integrated.automationProfile.linux": {
-        "path": "/bin/bash"
+        "path": "/bin/dash"
     },
     "terminal.integrated.automationProfile.osx": {
-        "path": "/bin/bash"
+        "path": "/bin/dash"
     },
     "security.workspace.trust.banner": "never",
     "git.openRepositoryInParentFolders": "never",
@@ -98,5 +94,25 @@
     "github.gitProtocol": "ssh",
     "editor.fontSize": 14,
     "terminal.integrated.fontSize": 14,
-    "markdown.marp.browser": "chrome"
+    "markdown.marp.browser": "chrome",
+    "terminal.integrated.profiles.linux": {
+        "bash": {
+            "path": "/bin/bash"
+        },
+        "zsh": {
+            "path": "/bin/zsh"
+        },
+        "dash": {
+            "path": "/bin/dash"
+        }
+    },
+    "terminal.integrated.profiles.osx": {
+        "bash": null,
+        "zsh": {
+            "path": "/bin/zsh"
+        },
+        "dash": {
+            "path": "/bin/dash"
+        }
+    }
 }
