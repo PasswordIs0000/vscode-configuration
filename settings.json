@@ -9,6 +9,8 @@
         "**/.git": true,
         "**/*.~*~": true,
         "**/.$*": true,
+        "**/.localized": true,
+        "**/.DS_Store": true,
         "**/*.o": true,
         "**/*.pyc": true,
         "**/*.so": true,
