@@ -114,5 +114,6 @@
         "dash": {
             "path": "/bin/dash"
         }
-    }
+    },
+    "editor.accessibilitySupport": "off"
 }
