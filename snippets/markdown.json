@@ -7,5 +7,14 @@
 			""
 		],
 		"description": "Insert an image from Pexels with attribution into a Marp slide"
+	},
+	"Background Image": {
+		"prefix": "background-img",
+		"body": [
+			"![bg left:40%]($CLIPBOARD)",
+			"<small><small><small><small><small><small><small><small><small><small>Image source: $CLIPBOARD</small></small></small></small></small></small></small></small></small></small>",
+			""
+		],
+		"description": "Insert a background image with attribution into a Marp slide"
 	}
 }
