@@ -16,5 +16,32 @@
 			""
 		],
 		"description": "Insert a background image with attribution into a Marp slide"
+	},
+	"Wikimedia CC BY-SA 4.0 Image": {
+		"prefix": "wikimedia-cc-by-sa-4.0-img",
+		"body": [
+			"![height:450px](URL_TO_IMAGE)",
+			"<small><small><small><small><small><small><small><small><small><small>Image source: AUTHOR_NAME, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons from $CLIPBOARD</small></small></small></small></small></small></small></small></small></small>",
+			""
+		],
+		"description": "Insert an image from Wikimedia licensed under CC BY-SA 4.0 with attribution into a Marp slide"
+	},
+	"Wikimedia CC0 1.0 Image": {
+		"prefix": "wikimedia-cc0-1.0-img",
+		"body": [
+			"![height:450px](URL_TO_IMAGE)",
+			"<small><small><small><small><small><small><small><small><small><small>Image source: AUTHOR_NAME, CC0, via Wikimedia Commons from $CLIPBOARD</small></small></small></small></small></small></small></small></small></small>",
+			""
+		],
+		"description": "Insert an image from Wikimedia licensed under CC0 1.0 with attribution into a Marp slide"
+	},
+	"Wikimedia Public Domain Image": {
+		"prefix": "wikimedia-public-domain-img",
+		"body": [
+			"![height:450px](URL_TO_IMAGE)",
+			"<small><small><small><small><small><small><small><small><small><small>Image source: AUTHOR_NAME, Public domain, via Wikimedia Commons from $CLIPBOARD</small></small></small></small></small></small></small></small></small></small>",
+			""
+		],
+		"description": "Insert an image from Wikimedia licensed under public domain with attribution into a Marp slide"
 	}
 }
