@@ -118,6 +118,10 @@
     "editor.accessibilitySupport": "off",
     "chat.mcp.access": "registry",
     "cSpell.userWords": [
+        "Exorbyte",
+        "Körber",
+        "LSTM",
+        "marp",
         "Moodle"
     ]
 }
