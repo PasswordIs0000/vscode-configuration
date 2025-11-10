@@ -116,5 +116,8 @@
         }
     },
     "editor.accessibilitySupport": "off",
-    "chat.mcp.access": "registry"
+    "chat.mcp.access": "registry",
+    "cSpell.userWords": [
+        "Moodle"
+    ]
 }
