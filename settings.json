@@ -67,7 +67,7 @@
     "git.openRepositoryInParentFolders": "never",
     "editor.snippetSuggestions": "none",
     "git.statusLimit": 1000,
-    "cSpell.language": "en,de",
+    "cSpell.language": "en,en-gb,de-de",
     "git.ignoreLimitWarning": true,
     "remote.SSH.enableDynamicForwarding": false,
     "cSpell.enabledFileTypes": {
@@ -76,14 +76,12 @@
         "git-commit": true,
         "markdown": true
     },
-    "cSpell.spellCheckDelayMs": 100,
     "github.copilot.enable": {
         "*": true,
         "plaintext": false,
         "markdown": true,
         "scminput": false
     },
-    "git.enableSmartCommit": true,
     "C_Cpp.clang_format_style": "Google",
     "chat.agent.enabled": true,
     "github.copilot.nextEditSuggestions.enabled": true,
@@ -117,11 +115,19 @@
     },
     "editor.accessibilitySupport": "off",
     "chat.mcp.access": "registry",
-    "cSpell.userWords": [
-        "Exorbyte",
-        "Körber",
-        "LSTM",
-        "marp",
-        "Moodle"
-    ]
+    "cSpell.maxNumberOfProblems": 1000,
+    "cSpell.checkLimit": 5000,
+    "cSpell.maxDuplicateProblems": 10,
+    "cSpell.spellCheckDelayMs": 100,
+    "cSpell.customDictionaries": {
+        "my-cspell-dict": {
+            "name": "My cSpell Dictionary",
+            "path": "~/Documents/cSpell Dictionary.txt",
+            "description": "My cSpell Dictionary in the Documents folder",
+            "addWords": true
+        }
+    },
+    "git.enableSmartCommit": true,
+    "git.smartCommitChanges": "tracked",
+    "git.suggestSmartCommit": false
 }
