@@ -11,18 +11,11 @@ ln -s $PWD/settings.json $HOME/.config/Code/User/settings.json
 ln -s $PWD/snippets $HOME/.config/Code/User/snippets
 ```
 
-### On MacOS X
+### On MacOS
 ```
 ln -s $PWD/keybindings.json $HOME/Library/Application\ Support/Code/User/keybindings.json
 ln -s $PWD/settings.json $HOME/Library/Application\ Support/Code/User/settings.json
 ln -s $PWD/snippets $HOME/Library/Application\ Support/Code/User/snippets
-```
-
-### On Windows as an administrator
-```
-mklink %APPDATA%\Code\User\keybindings.json %cd%\keybindings.json
-mklink %APPDATA%\Code\User\settings.json %cd%\settings.json
-mklink %APPDATA%\Code\User\snippets %cd%\snippets
 ```
 
 ## VSCode extensions
