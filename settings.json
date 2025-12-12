@@ -129,5 +129,6 @@
     "git.enableSmartCommit": true,
     "git.smartCommitChanges": "tracked",
     "git.suggestSmartCommit": false,
-    "window.autoDetectColorScheme": true
+    "window.autoDetectColorScheme": true,
+    "files.insertFinalNewline": true
 }
