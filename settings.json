@@ -130,5 +130,7 @@
     "git.smartCommitChanges": "tracked",
     "git.suggestSmartCommit": false,
     "window.autoDetectColorScheme": true,
-    "files.insertFinalNewline": true
+    "files.insertFinalNewline": true,
+    "security.workspace.trust.startupPrompt": "never",
+    "security.workspace.trust.untrustedFiles": "newWindow"
 }
