@@ -132,6 +132,5 @@
     "window.autoDetectColorScheme": true,
     "files.insertFinalNewline": true,
     "security.workspace.trust.startupPrompt": "never",
-    "security.workspace.trust.untrustedFiles": "newWindow",
-    "update.showReleaseNotes": false
+    "security.workspace.trust.untrustedFiles": "newWindow"
 }
