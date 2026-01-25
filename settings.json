@@ -33,10 +33,6 @@
     "latex-workshop.view.pdf.viewer": "tab",
     "python.terminal.activateEnvironment": false,
     "remote.SSH.suppressWindowsSshWarning": true,
-    "remote.SSH.remotePlatform": {
-        "dekstu019": "linux",
-        "dekstu014": "linux"
-    },
     "remote.downloadExtensionsLocally": true,
     "extensions.ignoreRecommendations": true,
     "json.schemaDownload.enable": false,
