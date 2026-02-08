@@ -78,7 +78,6 @@
         "scminput": false
     },
     "C_Cpp.clang_format_style": "Google",
-    "chat.agent.enabled": true,
     "github.copilot.nextEditSuggestions.enabled": true,
     "git.confirmSync": false,
     "editor.inlineSuggest.syntaxHighlightingEnabled": false,
@@ -109,7 +108,6 @@
         }
     },
     "editor.accessibilitySupport": "off",
-    "chat.mcp.access": "registry",
     "cSpell.maxNumberOfProblems": 1000,
     "cSpell.checkLimit": 5000,
     "cSpell.maxDuplicateProblems": 10,
@@ -128,5 +126,6 @@
     "window.autoDetectColorScheme": true,
     "files.insertFinalNewline": true,
     "security.workspace.trust.startupPrompt": "never",
-    "security.workspace.trust.untrustedFiles": "newWindow"
+    "security.workspace.trust.untrustedFiles": "newWindow",
+    "chat.disableAIFeatures": true
 }
