@@ -128,5 +128,6 @@
     "files.insertFinalNewline": true,
     "security.workspace.trust.startupPrompt": "never",
     "security.workspace.trust.untrustedFiles": "newWindow",
-    "chat.disableAIFeatures": true
+    "chat.disableAIFeatures": true,
+    "markdown.marp.html": "all"
 }
