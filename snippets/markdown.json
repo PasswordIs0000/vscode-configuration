@@ -75,6 +75,24 @@
 		],
 		"description": "Insert an image from Wikimedia licensed under CC BY-SA 3.0 with attribution into a Marp slide"
 	},
+	"Wikimedia CC BY 3.0 Image": {
+		"prefix": "wikimedia-cc-by-3.0-img",
+		"body": [
+			"![height:450px](URL_TO_IMAGE)",
+			"<footer style=\"font-size:10px;\">Image source: AUTHOR_NAME, CC BY 3.0 (https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons from $CLIPBOARD</footer>",
+			""
+		],
+		"description": "Insert an image from Wikimedia licensed under CC BY-SA 3.0 with attribution into a Marp slide"
+	},
+	"Wikimedia CC BY-SA 2.5 Image": {
+		"prefix": "wikimedia-cc-by-sa-2.5-img",
+		"body": [
+			"![height:450px](URL_TO_IMAGE)",
+			"<footer style=\"font-size:10px;\">Image source: AUTHOR_NAME, CC BY-SA 2.5 (https://creativecommons.org/licenses/by/2.5), via Wikimedia Commons from $CLIPBOARD</footer>",
+			""
+		],
+		"description": "Insert an image from Wikimedia licensed under CC BY 2.5 with attribution into a Marp slide"
+	},
 	"Wikimedia CC BY 2.5 Image": {
 		"prefix": "wikimedia-cc-by-2.5-img",
 		"body": [
@@ -105,7 +123,7 @@
 	"Wikipedia Text": {
 		"prefix": "wikipedia-text",
 		"body": [
-			"<font size=\"4\">From [Wikipedia (TITLE_OF_PAGE)]($CLIPBOARD):</font>",
+			"<font size=\"4\">From [Wikipedia, page \"TITLE_OF_PAGE\"]($CLIPBOARD):</font>",
 			"> TEXT_TO_QUOTE"
 		],
 		"description": "Insert a text from Wikipedia as a quote with citation into a Marp slide"
