@@ -1,0 +1,131 @@
+{
+	"Title Slide": {
+		"prefix": "title-slide",
+		"body": [
+			"<!-- _paginate: false -->",
+			"",
+			"<section class=\"logo-section\"><img src=\"logo.svg\" height=\"50px\"></section>",
+			"<style>",
+			".logo-section {",
+			"    position: absolute;",
+			"    right: 25px;",
+			"    top: 25px;",
+			"}",
+			"</style>",
+			"",
+			"![bg opacity:.2](title.jpg)",
+			"",
+			"# TITLE_TEXT",
+			""
+		],
+		"description": "Insert a Marp slide with the logo, title and background"
+	},
+	"Book Slide": {
+		"prefix": "book-slide",
+		"body": [
+			"<!-- _paginate: false -->",
+			"",
+			"# Resources: Books",
+			"",
+			"The following book is about TOPIC_DESCRIPTION:",
+			"",
+			"CITATION_IN_APA_STYLE",
+			"",
+			"Online version: URL_TO_BOOK",
+			"",
+			"![bg right:40%](URL_TO_IMAGE)",
+			"<footer style=\"font-size:10px;\">Image source: <i>PUBLISHER_NAME</i> at $CLIPBOARD</footer>",
+			""
+		],
+		"description": "Insert a Marp slide with information about a book"
+	},
+	"Pexels Background": {
+		"prefix": "pexels-bg",
+		"body": [
+			"![bg left:40%](https://images.pexels.com/photos/${CLIPBOARD/.*?(\\d+)[^\\d]*$/$1/}/pexels-photo-${CLIPBOARD/.*?(\\d+)[^\\d]*$/$1/}.jpeg)",
+			"<footer style=\"font-size:10px;\">Image source: $CLIPBOARD</footer>",
+			""
+		],
+		"description": "Insert an image from Pexels with attribution into a Marp slide"
+	},
+	"Wikimedia CC BY-SA 4.0 Image": {
+		"prefix": "wikimedia-cc-by-sa-4.0-img",
+		"body": [
+			"![height:450px](URL_TO_IMAGE)",
+			"<footer style=\"font-size:10px;\">Image source: AUTHOR_NAME, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons from $CLIPBOARD</footer>",
+			""
+		],
+		"description": "Insert an image from Wikimedia licensed under CC BY-SA 4.0 with attribution into a Marp slide"
+	},
+	"Wikimedia CC BY 4.0 Image": {
+		"prefix": "wikimedia-cc-by-4.0-img",
+		"body": [
+			"![height:450px](URL_TO_IMAGE)",
+			"<footer style=\"font-size:10px;\">Image source: AUTHOR_NAME, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0), via Wikimedia Commons from $CLIPBOARD</footer>",
+			""
+		],
+		"description": "Insert an image from Wikimedia licensed under CC BY 4.0 with attribution into a Marp slide"
+	},
+	"Wikimedia CC BY-SA 3.0 Image": {
+		"prefix": "wikimedia-cc-by-sa-3.0-img",
+		"body": [
+			"![height:450px](URL_TO_IMAGE)",
+			"<footer style=\"font-size:10px;\">Image source: AUTHOR_NAME, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons from $CLIPBOARD</footer>",
+			""
+		],
+		"description": "Insert an image from Wikimedia licensed under CC BY-SA 3.0 with attribution into a Marp slide"
+	},
+	"Wikimedia CC BY 3.0 Image": {
+		"prefix": "wikimedia-cc-by-3.0-img",
+		"body": [
+			"![height:450px](URL_TO_IMAGE)",
+			"<footer style=\"font-size:10px;\">Image source: AUTHOR_NAME, CC BY 3.0 (https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons from $CLIPBOARD</footer>",
+			""
+		],
+		"description": "Insert an image from Wikimedia licensed under CC BY-SA 3.0 with attribution into a Marp slide"
+	},
+	"Wikimedia CC BY-SA 2.5 Image": {
+		"prefix": "wikimedia-cc-by-sa-2.5-img",
+		"body": [
+			"![height:450px](URL_TO_IMAGE)",
+			"<footer style=\"font-size:10px;\">Image source: AUTHOR_NAME, CC BY-SA 2.5 (https://creativecommons.org/licenses/by/2.5), via Wikimedia Commons from $CLIPBOARD</footer>",
+			""
+		],
+		"description": "Insert an image from Wikimedia licensed under CC BY 2.5 with attribution into a Marp slide"
+	},
+	"Wikimedia CC BY 2.5 Image": {
+		"prefix": "wikimedia-cc-by-2.5-img",
+		"body": [
+			"![height:450px](URL_TO_IMAGE)",
+			"<footer style=\"font-size:10px;\">Image source: AUTHOR_NAME, CC BY 2.5 (https://creativecommons.org/licenses/by/2.5), via Wikimedia Commons from $CLIPBOARD</footer>",
+			""
+		],
+		"description": "Insert an image from Wikimedia licensed under CC BY 2.5 with attribution into a Marp slide"
+	},
+	"Wikimedia CC0 Image": {
+		"prefix": "wikimedia-cc0-img",
+		"body": [
+			"![height:450px](URL_TO_IMAGE)",
+			"<footer style=\"font-size:10px;\">Image source: AUTHOR_NAME, CC0, via Wikimedia Commons from $CLIPBOARD</footer>",
+			""
+		],
+		"description": "Insert an image from Wikimedia licensed under CC0 1.0 with attribution into a Marp slide"
+	},
+	"Wikimedia Public Domain Image": {
+		"prefix": "wikimedia-public-domain-img",
+		"body": [
+			"![height:450px](URL_TO_IMAGE)",
+			"<footer style=\"font-size:10px;\">Image source: AUTHOR_NAME, Public domain, via Wikimedia Commons from $CLIPBOARD</footer>",
+			""
+		],
+		"description": "Insert an image from Wikimedia licensed under public domain with attribution into a Marp slide"
+	},
+	"Wikipedia Text": {
+		"prefix": "wikipedia-text",
+		"body": [
+			"<font size=\"4\">From [Wikipedia, page \"TITLE_OF_PAGE\"]($CLIPBOARD):</font>",
+			"> TEXT_TO_QUOTE"
+		],
+		"description": "Insert a text from Wikipedia as a quote with citation into a Marp slide"
+	}
+}

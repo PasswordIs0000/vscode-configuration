@@ -1,0 +1,127 @@
+{
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": true,
+    "files.exclude": {
+        "**/.*~": true,
+        "**/.#*": true,
+        "**/.git": true,
+        "**/*.~*~": true,
+        "**/.$*": true,
+        "**/.localized": true,
+        "**/.DS_Store": true,
+        "**/*.o": true,
+        "**/*.pyc": true,
+        "**/*.so": true,
+        "**/*.tmp": true,
+        "**/CVS": true
+    },
+    "window.restoreWindows": "none",
+    "workbench.startupEditor": "none",
+    "editor.formatOnPaste": false,
+    "editor.formatOnSave": false,
+    "editor.formatOnType": false,
+    "terminal.integrated.fontFamily": "Hack",
+    "C_Cpp.autoAddFileAssociations": false,
+    "files.autoSave": "afterDelay",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "latex-workshop.latex.autoBuild.run": "never",
+    "latex-workshop.message.update.show": false,
+    "workbench.enableExperiments": false,
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "latex-workshop.view.pdf.viewer": "tab",
+    "python.terminal.activateEnvironment": false,
+    "remote.SSH.suppressWindowsSshWarning": true,
+    "remote.downloadExtensionsLocally": true,
+    "extensions.ignoreRecommendations": true,
+    "json.schemaDownload.enable": false,
+    "npm.fetchOnlinePackageInfo": false,
+    "python.showStartPage": false,
+    "python.analysis.autoImportCompletions": false,
+    "jupyter.askForKernelRestart": false,
+    "terminal.integrated.enablePersistentSessions": false,
+    "remote.SSH.localServerDownload": "always",
+    "remote.autoForwardPorts": false,
+    "git.autoRepositoryDetection": "openEditors",
+    "workbench.editorAssociations": {
+        "file:/**/*.csv": "jupyter-data-wrangler"
+    },
+    "task.autoDetect": "off",
+    "telemetry.telemetryLevel": "off",
+    "terminal.integrated.defaultProfile.linux": "dash",
+    "terminal.integrated.defaultProfile.osx": "dash",
+    "terminal.integrated.automationProfile.linux": {
+        "path": "/bin/dash"
+    },
+    "terminal.integrated.automationProfile.osx": {
+        "path": "/bin/dash"
+    },
+    "security.workspace.trust.banner": "never",
+    "git.openRepositoryInParentFolders": "never",
+    "editor.snippetSuggestions": "none",
+    "git.statusLimit": 1000,
+    "cSpell.language": "en,en-gb,de-de",
+    "git.ignoreLimitWarning": true,
+    "remote.SSH.enableDynamicForwarding": false,
+    "cSpell.enabledFileTypes": {
+        "*": false,
+        "latex": true,
+        "git-commit": true,
+        "markdown": true
+    },
+    "C_Cpp.clang_format_style": "Google",
+    "git.confirmSync": false,
+    "editor.inlineSuggest.syntaxHighlightingEnabled": false,
+    "telemetry.feedback.enabled": false,
+    "jupyter.experiments.enabled": false,
+    "github.gitProtocol": "ssh",
+    "editor.fontSize": 14,
+    "terminal.integrated.fontSize": 14,
+    "markdown.marp.browser": "chrome",
+    "terminal.integrated.profiles.linux": {
+        "bash": {
+            "path": "/bin/bash"
+        },
+        "zsh": {
+            "path": "/bin/zsh"
+        },
+        "dash": {
+            "path": "/bin/dash"
+        }
+    },
+    "terminal.integrated.profiles.osx": {
+        "bash": null,
+        "zsh": {
+            "path": "/bin/zsh"
+        },
+        "dash": {
+            "path": "/bin/dash"
+        }
+    },
+    "editor.accessibilitySupport": "off",
+    "cSpell.maxNumberOfProblems": 1000,
+    "cSpell.checkLimit": 5000,
+    "cSpell.maxDuplicateProblems": 10,
+    "cSpell.spellCheckDelayMs": 100,
+    "cSpell.customDictionaries": {
+        "my-cspell-dict": {
+            "name": "My cSpell Dictionary",
+            "path": "~/Documents/cSpell Dictionary.txt",
+            "description": "My cSpell Dictionary in the Documents folder",
+            "addWords": true
+        }
+    },
+    "git.enableSmartCommit": true,
+    "git.smartCommitChanges": "tracked",
+    "git.suggestSmartCommit": false,
+    "window.autoDetectColorScheme": true,
+    "files.insertFinalNewline": true,
+    "security.workspace.trust.startupPrompt": "never",
+    "security.workspace.trust.untrustedFiles": "newWindow",
+    "chat.disableAIFeatures": true,
+    "markdown.marp.html": "all",
+    "chat.tools.terminal.autoApproveWorkspaceNpmScripts": false,
+    "js/ts.tsserver.automaticTypeAcquisition.enabled": false
+}
