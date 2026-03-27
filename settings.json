@@ -45,9 +45,6 @@
     "remote.SSH.localServerDownload": "always",
     "remote.autoForwardPorts": false,
     "git.autoRepositoryDetection": "openEditors",
-    "workbench.editorAssociations": {
-        "file:/**/*.csv": "jupyter-data-wrangler"
-    },
     "task.autoDetect": "off",
     "telemetry.telemetryLevel": "off",
     "terminal.integrated.defaultProfile.linux": "dash",
