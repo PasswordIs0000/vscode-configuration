@@ -102,6 +102,24 @@
 		],
 		"description": "Insert an image from Wikimedia licensed under CC BY 2.5 with attribution into a Marp slide"
 	},
+	"Wikimedia CC BY-SA 2.0 Image": {
+		"prefix": "wikimedia-cc-by-sa-2.0-img",
+		"body": [
+			"![height:450px](URL_TO_IMAGE)",
+			"<footer style=\"font-size:10px;\">Image source: AUTHOR_NAME, CC BY-SA 2.0 (https://creativecommons.org/licenses/by/2.5), via Wikimedia Commons from $CLIPBOARD</footer>",
+			""
+		],
+		"description": "Insert an image from Wikimedia licensed under CC BY 2.0 with attribution into a Marp slide"
+	},
+	"Wikimedia CC BY 2.0 Image": {
+		"prefix": "wikimedia-cc-by-2.0-img",
+		"body": [
+			"![height:450px](URL_TO_IMAGE)",
+			"<footer style=\"font-size:10px;\">Image source: AUTHOR_NAME, CC BY 2.0 (https://creativecommons.org/licenses/by/2.5), via Wikimedia Commons from $CLIPBOARD</footer>",
+			""
+		],
+		"description": "Insert an image from Wikimedia licensed under CC BY 2.0 with attribution into a Marp slide"
+	},
 	"Wikimedia CC0 Image": {
 		"prefix": "wikimedia-cc0-img",
 		"body": [
@@ -119,6 +137,15 @@
 			""
 		],
 		"description": "Insert an image from Wikimedia licensed under public domain with attribution into a Marp slide"
+	},
+	"Wikimedia MIT Image": {
+		"prefix": "wikimedia-mit-img",
+		"body": [
+			"![height:450px](URL_TO_IMAGE)",
+			"<footer style=\"font-size:10px;\">Image source: AUTHOR_NAME, MIT <http://opensource.org/licenses/mit-license.php>, via Wikimedia Commons from $CLIPBOARD</footer>",
+			""
+		],
+		"description": "Insert an image from Wikimedia licensed under MIT license with attribution into a Marp slide"
 	},
 	"Wikipedia Text": {
 		"prefix": "wikipedia-text",
