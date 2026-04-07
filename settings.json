@@ -108,10 +108,14 @@
             "path": "~/Documents/cSpell Dictionary.txt",
             "description": "My cSpell Dictionary in the Documents folder",
             "addWords": true
+        },
+        "my-cspell-secrets": {
+            "name": "My cSpell Secrets",
+            "path": "~/Documents/cSpell Secrets.txt",
+            "description": "My cSpell Secrets in the Documents folder",
+            "addWords": false
         }
     },
-    "git.enableSmartCommit": true,
-    "git.smartCommitChanges": "tracked",
     "git.suggestSmartCommit": false,
     "window.autoDetectColorScheme": true,
     "files.insertFinalNewline": true,

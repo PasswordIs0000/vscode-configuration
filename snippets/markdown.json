@@ -151,7 +151,8 @@
 		"prefix": "wikipedia-text",
 		"body": [
 			"<font size=\"4\">From [Wikipedia, page \"TITLE_OF_PAGE\"]($CLIPBOARD):</font>",
-			"> TEXT_TO_QUOTE"
+			"> TEXT_TO_QUOTE",
+			""
 		],
 		"description": "Insert a text from Wikipedia as a quote with citation into a Marp slide"
 	}
