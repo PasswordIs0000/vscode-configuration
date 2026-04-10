@@ -44,7 +44,6 @@
     "terminal.integrated.enablePersistentSessions": false,
     "remote.SSH.localServerDownload": "always",
     "remote.autoForwardPorts": false,
-    "git.autoRepositoryDetection": "openEditors",
     "task.autoDetect": "off",
     "telemetry.telemetryLevel": "off",
     "terminal.integrated.defaultProfile.linux": "dash",
