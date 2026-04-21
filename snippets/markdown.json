@@ -4,7 +4,7 @@
 		"body": [
 			"<!-- _paginate: false -->",
 			"",
-			"<section class=\"logo-section\"><img src=\"logo.svg\" height=\"50px\"></section>",
+			"<section class=\"logo-section\"><img src=\"Thirdparty/logo.svg\" height=\"50px\"></section>",
 			"<style>",
 			".logo-section {",
 			"    position: absolute;",
@@ -155,5 +155,14 @@
 			""
 		],
 		"description": "Insert a text from Wikipedia as a quote with citation into a Marp slide"
+	},
+	"Paper Image": {
+		"prefix": "paper-img",
+		"body": [
+			"![height:450px](PATH_TO_IMAGE)",
+			"<footer style=\"font-size:10px;\">Image source: CITATION</footer>",
+			""
+		],
+		"description": "Insert an image from a scientific paper with attribution into a Marp slide"
 	}
 }
