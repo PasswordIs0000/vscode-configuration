@@ -1,6 +1,6 @@
 {
-	"Title Slide": {
-		"prefix": "title-slide",
+	"Title Slide (EN)": {
+		"prefix": "title-slide-en",
 		"body": [
 			"<!-- _paginate: false -->",
 			"",
@@ -12,6 +12,29 @@
 			"    top: 25px;",
 			"}",
 			"</style>",
+			"<footer style=\"font-size:10px;\">Cover image is AI generated. Lecture content was created using AI support.</footer>",
+			"",
+			"![bg opacity:.2](title.jpg)",
+			"",
+			"# TITLE_TEXT",
+			""
+		],
+		"description": "Insert a Marp slide with the logo, title and background"
+	},
+	"Title Slide (DE)": {
+		"prefix": "title-slide-de",
+		"body": [
+			"<!-- _paginate: false -->",
+			"",
+			"<section class=\"logo-section\"><img src=\"Thirdparty/logo.svg\" height=\"50px\"></section>",
+			"<style>",
+			".logo-section {",
+			"    position: absolute;",
+			"    right: 25px;",
+			"    top: 25px;",
+			"}",
+			"</style>",
+			"<footer style=\"font-size:10px;\">Titelbild ist KI-generiert. Vorlesungsinhalt wurde mit KI-Unterstützung erstellt.</footer>",
 			"",
 			"![bg opacity:.2](title.jpg)",
 			"",
