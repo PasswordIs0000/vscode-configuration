@@ -1,4 +1,18 @@
 {
+	"Marp Boilerplate": {
+		"prefix": "marp-boilerplate",
+		"body": [
+			"---",
+			"",
+			"marp: true",
+			"paginate: true",
+			"math: mathjax",
+			"",
+			"---",
+			""
+		],
+		"description": "Insert a Marp boilerplate"
+	},
 	"Title Slide (EN)": {
 		"prefix": "title-slide-en",
 		"body": [
