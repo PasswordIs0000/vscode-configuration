@@ -117,5 +117,6 @@
     "chat.disableAIFeatures": true,
     "markdown.marp.html": "all",
     "chat.tools.terminal.autoApproveWorkspaceNpmScripts": false,
-    "js/ts.tsserver.automaticTypeAcquisition.enabled": false
+    "js/ts.tsserver.automaticTypeAcquisition.enabled": false,
+    "workbench.browser.dataStorage": "ephemeral"
 }
