@@ -29,4 +29,3 @@ ln -s $PWD/snippets $HOME/Library/Application\ Support/Code/User/snippets
 
 ## Fonts
 - [Fira Code](https://github.com/tonsky/FiraCode)
-- [Hack](https://github.com/source-foundry/Hack)

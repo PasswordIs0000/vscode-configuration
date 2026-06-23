@@ -23,7 +23,7 @@
     "editor.formatOnPaste": false,
     "editor.formatOnSave": false,
     "editor.formatOnType": false,
-    "terminal.integrated.fontFamily": "Hack",
+    "terminal.integrated.fontFamily": "Fira Code",
     "C_Cpp.autoAddFileAssociations": false,
     "files.autoSave": "afterDelay",
     "editor.acceptSuggestionOnCommitCharacter": false,
