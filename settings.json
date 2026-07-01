@@ -118,5 +118,7 @@
     "markdown.marp.html": "all",
     "chat.tools.terminal.autoApproveWorkspaceNpmScripts": false,
     "js/ts.tsserver.automaticTypeAcquisition.enabled": false,
-    "workbench.browser.dataStorage": "ephemeral"
+    "workbench.browser.dataStorage": "ephemeral",
+    "python.experiments.enabled": false,
+    "workbench.browser.searchEngine": "none"
 }
