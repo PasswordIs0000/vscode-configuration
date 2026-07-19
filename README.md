@@ -26,6 +26,7 @@ ln -s $PWD/snippets $HOME/Library/Application\ Support/Code/User/snippets
 - [Marp for VS Code](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
 - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 - [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
+- [Vs64](https://marketplace.visualstudio.com/items?itemName=rosc.vs64)
 
 ## Fonts
 - [Fira Code](https://github.com/tonsky/FiraCode)

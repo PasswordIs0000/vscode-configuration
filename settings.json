@@ -120,5 +120,6 @@
     "js/ts.tsserver.automaticTypeAcquisition.enabled": false,
     "workbench.browser.dataStorage": "ephemeral",
     "python.experiments.enabled": false,
-    "workbench.browser.searchEngine": "none"
+    "workbench.browser.searchEngine": "none",
+    "vs64.showWelcome": false
 }
