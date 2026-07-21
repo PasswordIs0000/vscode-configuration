@@ -121,5 +121,6 @@
     "workbench.browser.dataStorage": "ephemeral",
     "python.experiments.enabled": false,
     "workbench.browser.searchEngine": "none",
-    "vs64.showWelcome": false
+    "vs64.showWelcome": false,
+    "files.autoSaveDelay": 2000
 }
